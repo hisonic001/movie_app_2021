@@ -19,6 +19,7 @@ body,
   display: flex;
   justify-content: center;
 }
+
 .loader_container {
   display: flex;
   flex-direction: column;
